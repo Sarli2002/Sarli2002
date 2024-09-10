@@ -10,6 +10,6 @@ I'm a final year B.Tech student at NSUT, with experience in web development and 
 
 ## 📫 How to reach me
 - Email: sarlisengar@gmail.com
-- LinkedIn: [linkedin.com/in/sarli-sengar](https://linkedin.com/in/sarli-sengar)
+- LinkedIn: [https://www.linkedin.com/in/sarli-sengar-5093a322a/)
 - GitHub: [github.com/Sarli2002](https://github.com/Sarli2002)
 
