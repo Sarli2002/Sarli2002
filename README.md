@@ -1,6 +1,6 @@
 # Hi there, I'm Sarli! 👋
 
-I'm a B.Tech student at NSUT, with experience in web development and cloud technologies.
+I'm a final year B.Tech student at NSUT, with experience in web development and cloud technologies.
 
 ## 🚀 Skills
 - **Programming Languages**: C, C++, Python, JavaScript
